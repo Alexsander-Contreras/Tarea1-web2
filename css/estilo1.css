@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.torso{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+#estructura
+{
+    margin: auto;
+    margin-top: 30px;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width:600px;
+    height: 600px;
+    background-color: rgb(7, 131, 184);
+
+}
+#cabeza{
+    margin-top: 45pxs;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 120px;
+    margin: auto;
+}
+#frente{
+    height: 40px;
+    width: 90px;
+    margin: auto;
+
+}
+#ojo1{
+    height: 40px;
+    width: 40px;
+    float: left;
+    border-radius: 50px;
+    background-color: red;
+    margin-left: 25px;
+}
+#ojo2{
+    height: 40px;
+    width: 40px;
+    float: right;
+    border-radius: 50px;
+    margin-right: 25px;
+    background-color: red;
+}
+#menton{
+    height: 10px;
+    width: 160px;
+    margin-top: 40px;
+}
+#nariz{
+    height: 10px;
+    width: 70px;
+    background-color: orange;
+}
+#labio{
+    height: 10px;
+    width: 160px;
+}
+#boca{
+    margin-top: 25px;
+    height: 15px;
+    width: 50px;
+    background-color: black;
+    margin: auto;
+}
+
+#esfera1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 120px;
+}
+#brazo1{
+    height: 30px;
+    width: 200px;
+    background-color: chocolate;
+}
+#brazo2{
+    height: 30px;
+    width: 200px;
+    background-color: chocolate;
+}
+#base{
+    /*margin-top: 45pxs;*/
+    height: 270px;
+    width: 270px;
+    background-color: white;
+    border-radius: 150px;
+    margin: auto;
+}
